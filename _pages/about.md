@@ -17,7 +17,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 
 During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen LI(XJTU), [Qingyang Li](https://cn.linkedin.com/in/kon-li/zh-cn)(XJTU) and more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU) and Dr [Renata Borovica-Gajic](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) 
 
-**Email:** Dann_Hiroaki@ieee.org. 
+**Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org)
 
 - Just feel free to email me, I'm pushing myself checking mailbox everyday.
 
