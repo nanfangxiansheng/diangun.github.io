@@ -11,6 +11,8 @@ redirect_from:
     display: none;
   }
 </style>
+# Welcome to my homepage!!!
+
 <img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=550 /> 
 
 ## About Me
