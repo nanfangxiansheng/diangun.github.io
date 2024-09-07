@@ -38,13 +38,12 @@ author:
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  github           : "https://github.com/DANNHIROAKI"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"shangqilu"
+  github           : "https://github.com/DANNHIROAKI" 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -73,7 +72,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : "https://www.zhihu.com/people/cornelia-street-19"
-  csdn             : "https://blog.csdn.net/qq_64091900?"
 
 
 # Site Settings
