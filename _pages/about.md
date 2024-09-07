@@ -11,9 +11,7 @@ redirect_from:
     display: none;
   }
 </style>
-<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=400 /> 
-
----
+<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=550 /> 
 
 ## About Me
 
@@ -27,7 +25,6 @@ During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https:
 
 **Research Interests.** Database, Computational Geometry, AI4Science, CV/NLP etc.
 
----
 
 ## Short Bio
 
@@ -41,7 +38,6 @@ During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https:
 - HKUST(GZ) Period
   - 2021.09～2025.06: **HKUST(GZ)**, *Data Science*, PhD
 
----
 
 ## Publications
 
@@ -51,7 +47,6 @@ During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https:
 - **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023 (Best Paper)
 - **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 (Best Paper) 
 
----
 
 ## Services
 
