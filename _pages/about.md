@@ -15,18 +15,22 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=550 /> 
 
-## About Me
+# About Me
 
 I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senior student at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn/zh/) in 2025 fall at [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
-**Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org)
+#### **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org) 
 
 - Just feel free to email me, I'm pushing myself checking mailbox everyday.
 
-**Research Interests.** Database, Computational Geometry, AI4Science, CV/NLP etc.
+#### **Research Interests**  
+
+- **Database.** Currently working on.
+- **AI4Science. **Optimisation of GSMM(Genome-scale metabolic model) based on PINNS. 
+- **Deep Learing.** Financial time-series forecasting based on the optimized Transformer/Informer models
 
 
-## Short Bio
+# Short Bio
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)* 
 
@@ -41,7 +45,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
   - 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, PhD
 
 
-## Publications
+# Publications
 
 *For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363)*  
 
@@ -50,7 +54,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 (Best Paper) 
 
 
-## Services
+# Services
 
 - Reviewer for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3), from 2023
 - Reviewer for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2), from 2024
