@@ -7,24 +7,24 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Shangqi Lu's Homepage"
+locale                   : "cn-CN"
+title                    : "Dann Hiroaki's Homepage"
 title_separator          : "-"
-name                     : &name "Shangqi Lu"
+name                     : &name "Hongyi Duan"
 description              : &description "personal description"
-url                      : https://shangqilu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dannhiroaki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shangqilu/shangqilu.github.io"
+repository               : "DANNHIROAKI/dannhiroaki.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "shangqilu.jpg"
-  name             : "Shangqi Lu"
+  avatar           : "DHY.jpg"
+  name             : "Hongyi Duan"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at HKUST-GZ"
+  bio              : "XJTU/Unimelb(BEng)→KHUST(PhD)"
   location         : #"Guangzhou, China"
   employer         : # "Huawei"
   uri              : # URL
@@ -32,12 +32,13 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=JTn8w04AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FWtjHUwAAAAJ&hl"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-7517-7252"
+  orcid            : "https://orcid.org/0000-0002-2082-5363"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  github           : "https://github.com/DANNHIROAKI"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,7 +72,8 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : "https://www.zhihu.com/people/cornelia-street-19"
+  csdn             : "https://blog.csdn.net/qq_64091900?"
 
 
 # Site Settings
