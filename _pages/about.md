@@ -38,7 +38,7 @@ During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https:
   - 2023.07～2024.07: **Unimelb**, *Computer Science*, EX&SA Program
   - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Intern
 - HKUST(GZ) Period
-  - 2021.09～2025.06: **HKUST(GZ)**, *Data Science*, PhD
+  - 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, PhD
 
 
 ## Publications
