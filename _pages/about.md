@@ -19,14 +19,14 @@ redirect_from:
 
 I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senior student at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn/zh/) in 2025 fall at [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
-#### **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org) 
+### **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org) 
 
 - Just feel free to email me, I'm pushing myself checking mailbox everyday.
 
-#### **Research Interests**  
+### **Research Interests**  
 
 - **Database.** Currently working on.
-- **AI4Science. **Optimisation of GSMM(Genome-scale metabolic model) based on PINNS. 
+- **AI4Science.**Optimisation of GSMM(Genome-scale metabolic model) based on PINNS. 
 - **Deep Learing.** Financial time-series forecasting based on the optimized Transformer/Informer models
 
 
