@@ -13,6 +13,8 @@ redirect_from:
 </style>
 <img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=700 /> 
 
+---
+
 ## About Me
 
 I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senior student at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn/zh/) in 2025 fall at [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
@@ -24,6 +26,8 @@ During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https:
 - Just feel free to email me, I'm pushing myself checking mailbox everyday.
 
 **Research Interests.** Database, Computational Geometry, AI4Science, CV/NLP etc.
+
+---
 
 ## Short Bio
 
@@ -37,6 +41,8 @@ During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https:
 - HKUST(GZ) Period
   - 2021.09～2025.06: **HKUST(GZ)**, *Data Science*, PhD
 
+---
+
 ## Publications
 
 *For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363)*  
@@ -44,6 +50,8 @@ During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https:
 - Jian'an Zhang, **Hongyi Duan**. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, [Arxiv](https://arxiv.org/abs/2310.01884), 2024. (Co-first authors)
 - **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023 (Best Paper)
 - **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 (Best Paper) 
+
+---
 
 ## Services
 
