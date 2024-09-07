@@ -33,7 +33,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)* 
 
-- XJTU Period
+- **XJTU Period**
 
   - 2021.09～2025.06: **XJTU**, *Computer Science*, B.Eng
   - 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Research Program
@@ -42,7 +42,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 
   🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen Li(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
 
-- HKUST(GZ) Period
+- **HKUST(GZ) Period**
 
   - 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, PhD
 
@@ -56,7 +56,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 
 ## 🌵Services
 
-- Reviewer for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3), from 2023
-- Reviewer for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2), from 2024
-- Student Member of IEEE and IEEE computer society, from 2022
-- Student Member of ACM, from 2022
+- **Reviewer** for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3), from 2023
+- **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2), from 2024
+- **Student Member** of IEEE and IEEE computer society, from 2022
+- **Student Member** of ACM, from 2022
