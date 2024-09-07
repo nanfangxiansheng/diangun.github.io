@@ -13,7 +13,7 @@ redirect_from:
 </style>
 # Welcome to my homepage!!!
 
-<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=550 /> 
+<img src="https://api2.mubu.com/v3/document_image/19142746_814dc527-6c8b-4ac6-b1bf-3a2e4a0a0a69.png" width=550 /> 
 
 ## About Me
 
