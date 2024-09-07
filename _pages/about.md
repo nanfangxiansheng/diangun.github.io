@@ -15,7 +15,7 @@ redirect_from:
 
 I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senior student at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn/zh/) in 2025 fall at [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
-During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen LI(XJTU), [Qingyang Li](https://cn.linkedin.com/in/kon-li/zh-cn)(XJTU), Jiashen Feng(RUC) and more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU) and Dr [Renata Borovica-Gajic](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb). 
+During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen LI(XJTU), [Qingyang Li](https://cn.linkedin.com/in/kon-li/zh-cn)(XJTU), Jiashen Feng(RUC) and more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata Borovica-Gajic](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
 
 **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org)
 
