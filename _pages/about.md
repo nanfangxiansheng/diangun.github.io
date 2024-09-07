@@ -11,7 +11,7 @@ redirect_from:
     display: none;
   }
 </style>
-<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=550 /> 
+<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=400 /> 
 
 ---
 
