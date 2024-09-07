@@ -11,42 +11,41 @@ redirect_from:
     display: none;
   }
 </style>
+## About Me
 
-### About Me
+I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senior student at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn/zh/) in 2025 fall at [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
-Shangqi Lu is currently an Assistant Professor at the Hong Kong University of Science and Technology (Guangzhou) in the [Data Science and Analytics Thrust](https://dsa.hkust-gz.edu.cn/). Prior to this, he was a Research Engineer at Huawei. He obtained his doctoral degree in 2022 at the Chinese University of Hong Kong, honorably advised by Prof. [Yufei Tao](https://www.cse.cuhk.edu.hk/~taoyf/). He obtained his bachelor's degree from the Northwestern Polytechnical University in 2018.
+During my stay in XJTU, I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen LI(XJTU), [Qingyang Li](https://cn.linkedin.com/in/kon-li/zh-cn)(XJTU) and more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU) and Dr [Renata Borovica-Gajic](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) 
 
-**Email:** shangqilu@hkust-gz.edu.cn
+**Email:** Dann_Hiroaki@ieee.org. 
 
-**Research Interests.** Designing algorithms with non-trivial theoretical guarantees and applying them to practical database systems. My focus lies in exploring topics such as database query processing, high-dimensional computational geometry, information retrieval, and machine learning.
+- Just feel free to email me, I'm pushing myself checking mailbox everyday.
 
+**Research Interests.** Database, Computational Geometry, AI4Science, CV/NLP etc.
 
-**I am looking for PhD students and Research Assistants.** Please send me your CV and detailed transcript if you are interested. The accepted student is expected to research on both practical and theoretical algorithms on large-scale data.
+## Short Bio
 
-### Publications
+*For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)* 
 
-In publications marked with `**', authors are ordered alphabetically (by last name), as is a convention of theory papers. In the other publications, authors are ordered by contribution.
+- XJTU Period
+  - 2021.09～2025.06: **XJTU**, *Computer Science*, B.Eng
+  - 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Research Program
+  - 2023.07～2024.07: **Unimelb**, *Computer Science*, EX&SA Program
+  - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Intern
+- HKUST(GZ) Period
+  - 2021.09～2025.06: **HKUST(GZ)**, *Data Science*, PhD
 
-- Ru Wang, **Shangqi Lu**, and Yufei Tao. An Index for Set Intersection with Post-Filtering. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
-- Shangqi Lu, Wim Martens, Matthias Niewerth, and Yufei Tao. **Partial Order Multiway Search. ACM Transactions on Database Systems (TODS), 48(4): 10:1-10:31, 2023. (Special issue of PODS'22, ACM SIGMOD Research Highlight Award 2023).
-- Shangqi Lu and Yufei Tao. **Indexing for Keyword Search with Structured Constraints. Proceedings of the 42nd ACM Symposium on Principles of Database Systems (PODS), pages 263-275, 2023.
-- Shiyuan Deng, Shangqi Lu, and Yufei Tao. **On Join Sampling and the Hardness of Combinatorial Output-Sensitive Join Algorithms. Proceedings of the 42nd ACM Symposium on Principles of Database Systems (PODS), pages 99-111, 2023.
-- Shiyuan Deng, Shangqi Lu, and Yufei Tao. **Space-Query Tradeoffs in Range Subgraph Counting and Listing. Proceedings of the 26th International Conference on Database Theory (ICDT), pages 6:1-6:25, 2023.
-- Shangqi Lu and Yufei Tao. **Range Updates and Range Sum Queries on Multidimensional Points with Monoid Weights. Proceedings of the 33rd International Symposium on Algorithms and Computation (ISAAC), pages 57:1-57:16, 2022. Computational Geometry: Theory and Applications, 115:102030, 2023.
-- Abolfazl Asudeh, Das Gautam, HV Jagadish, Shangqi Lu, Azade Nazi, and Yufei Tao, et al. **On Finding Rank Regret Representatives. ACM Transactions on Database Systems (TODS), 47(3): 10:1-10:37, 2022.
-- Shangqi Lu, Wim Martens, Matthias Niewerth, and Yufei Tao. **Optimal Algorithms for Multiway Search on Partial Orders. Proceedings of the 41st ACM Symposium on Principles of Database Systems (PODS), pages 175-187, 2022.
-- Shangqi Lu and Yufei Tao. **Towards Optimal Dynamic Indexes for Approximate (and Exact) Triangle Counting. Proceedings of the 24th International Conference on Database Theory (ICDT), pages 6:1-6:23, 2021.
-- Yufei Tao and **Shangqi Lu.** From Online to Non-i.i.d. Batch Learning. Proceedings of the 26th ACM International Conference On Knowledge Discovery and Data Mining (SIGKDD), pages 328-337, 2020.
+## Publications
 
-### Awards
+*For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363)*  
 
-- SIGMOD Research Highlight Award 2023
-- CCF Outstanding Undergraduate Award 2017
-- National Scholarship in China, 2015, 2016, 2017
+- Jian'an Zhang, **Hongyi Duan**. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, [Arxiv](https://arxiv.org/abs/2310.01884), 2024. (Co-first authors)
+- **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023 (Best Paper)
+- **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 (Best Paper) 
 
-### Teaching
+## Services
 
-- Teaching Assistant: CSCI5010 Practical Computational Geometry Algorithms, Spring 2021
-- Teaching Assistant: CMSC5724 Data Mining and Knowledge Discovery, Fall 2018, Fall 2019, Fall 2020
-- Teaching Assistant: CSCI2100 Data Structures, Fall 2018, Fall 2020
-- Teaching Assistant: CSCI3160: Design and Analysis of Algorithms, Fall 2019
+- Reviewer for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3)
+- Reviewer for [IEEE Access](https://ieeeaccess.ieee.org/) (JCR-2)
+- Student Member of IEEE and IEEE computer society
+- Student Member of ACM
