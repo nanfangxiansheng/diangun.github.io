@@ -40,7 +40,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
   - 2023.07～2024.07: **Unimelb**, *Computer Science*, EX&SA Program
   - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Intern
 
-  🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen LI(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
+  🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen Li(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
 
 - HKUST(GZ) Period
 
