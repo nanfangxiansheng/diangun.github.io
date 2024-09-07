@@ -11,7 +11,7 @@ redirect_from:
     display: none;
   }
 </style>
-# ✨Welcome to my homepage!!!
+## ✨Welcome to my homepage!!!
 
 <img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=550 /> 
 
@@ -28,7 +28,6 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - **Database.** Currently working on.
 - **AI4Science.** Optimisation of GSMM(Genome-scale metabolic model) based on PINNS. 
 - **Deep Learing.** Financial time-series forecasting based on the optimized Transformer/Informer models
-
 
 ## 🗂️Short Bio 
 
@@ -47,7 +46,6 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 
   - 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, PhD
 
-
 ## 📚Publications
 
 *For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363)*  
@@ -55,7 +53,6 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - Jian'an Zhang, **Hongyi Duan**. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, [Arxiv](https://arxiv.org/abs/2310.01884), 2024. (Co-first authors)
 - **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023 (Best Paper)
 - **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 (Best Paper) 
-
 
 ## 🌵Services
 
