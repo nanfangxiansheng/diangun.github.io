@@ -45,6 +45,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - **HKUST(GZ) Period**
 
   - 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, PhD
+  - *To be explored*
 
 ## 📚Publications
 
