@@ -31,7 +31,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - **AI4Science.** Optimisation of GSMM(Genome-scale metabolic model) based on [PINNS](https://arxiv.org/abs/1711.10561). 
 - **Deep Learing.** Time-series forecasting based on the optimized [Informer](https://arxiv.org/abs/2012.07436) models
 
-# 🗂️Short Bio 
+# 📜Short Bio 
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)*  
 
