@@ -11,51 +11,45 @@ redirect_from:
     display: none;
   }
 </style>
-# ✨Welcome to my homepage!!!
+## ✨Welcome to my homepage!!!
 
 <img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/4ea0326ef75c39ddd83a0f807c1d944.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=550 /> 
 
-
-
-# 👤About Me
+## 👤About Me
 
 I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senior student at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn/zh/) in [DSA Thrust](https://dsa.hkust-gz.edu.cn/) (2025 fall), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
-## Contact
+**Contact**
 
 - **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org), feel free to email me, I'm pushing myself to check mailbox everyday. 
 
-- **WeChat/Telegram: **@Dann_Hiroaki
+- **WeChat/Telegram:** @Dann_Hiroaki
 
-## **Research Interests**  
+**Research Interests**  
 
 - **Database.** Currently working on.
 - **AI4Science.** Optimisation of GSMM(Genome-scale metabolic model) based on [PINNS](https://arxiv.org/abs/1711.10561). 
 - **Deep Learing.** Time-series forecasting based on the optimized [Informer](https://arxiv.org/abs/2012.07436) models
 
-
-
-# 🗂️Short Bio 
+## 🗂️Short Bio 
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)* 
 
-## **XJTU Period** 
+**XJTU Period** 
 
 - 2021.09～2025.06: **XJTU**, *Computer Science*, B.Eng
 - 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Research Program
 - 2023.07～2024.07: **Unimelb**, *Computer Science*, EX&SA Program
 - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Intern
 
-🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen Li(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
+  🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen Li(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
 
-## HKUST(GZ) Period
+**HKUST(GZ) Period**
 
 - 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, PhD
 - *To be explored*
 
-
-
-# 📚Publications
+## 📚Publications
 
 *For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363)*  
 
@@ -63,9 +57,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023 **(Best Paper)**
 - **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 **(Best Paper)** 
 
-
-
-# 🌵Services
+## 🌵Services
 
 - **Reviewer** for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3), from 2023
 - **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2), from 2024
