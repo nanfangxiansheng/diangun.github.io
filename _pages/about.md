@@ -35,7 +35,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 
 ---
 
-# <span style="color: purple;">👉Short Bio</span> 
+# <span style="color: purple;">📂Short Bio</span> 
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)*  
 
