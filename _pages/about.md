@@ -35,7 +35,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 
 ---
 
-# <span style="color: purple;">📂Short Bio</span> 
+# <span style="color: purple;">📝Short Bio</span> 
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)*  
 
@@ -46,7 +46,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - 2023.07～2024.07: **Unimelb**, *Computer Science*, EX&SA Program
 - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Intern
 
-  🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl=zh-CN)(SUFE→PKU), Yuchen Li(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
+  🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl)(SUFE→PKU), Yuchen Li(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
 
 **HKUST(GZ) Period**
 
@@ -73,4 +73,14 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2), from 2024
 - **Student Member** of *[IEEE & IEEE computer society](ieee.org)*, from 2022
 - **Student Member** of *[ACM](acm.org)*, from 2022
+
+---
+
+# <span style="color: purple;">📢News</span> 
+
+- **2023.04.21.** My [work](https://ieeexplore.ieee.org/document/10248891) with Yuchen Li, Qingyang Li, et al was awarded the Best Paper and Best Presentation at ICSP'23. [[link](https://ic-icsp.org/cryxcwsf)]
+- **2024.04.06.** My [work](https://arxiv.org/abs/2310.01884v1) with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) was awarded the outstanding paper at the 6th National Development Youth Forum organised by the [NSD](https://nsd.pku.edu.cn/) at PKU. [[link](https://mp.weixin.qq.com/s/nWHSswtN0Lx6qDYpxc_3fw)]
+- **2024.05.24.** Congratulations on [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) for getting his PhD offer from [GSM](https://en.gsm.pku.edu.cn/) at PKU, honorably advised by Prof. [Chenxu Li](https://en.gsm.pku.edu.cn/faculty/cxli/).   
+
+ 
 
