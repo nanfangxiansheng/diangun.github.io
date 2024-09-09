@@ -19,7 +19,7 @@ redirect_from:
 
 # <span style="color: purple;">👤About Me</span>
 
-I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senior student at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn) in [DSA Thrust](https://dsa.hkust-gz.edu.cn/) (2025 fall), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
+I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an undergraduate student (2021 fall intake) at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD at the [HKUST (GZ)](https://www.hkust-gz.edu.cn) in [DSA Thrust](https://dsa.hkust-gz.edu.cn/) (2025 fall intake), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
 **Contact**
 
