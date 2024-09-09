@@ -23,7 +23,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 **Contact**
 
-- **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org).
+- **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org) 
 
 - **WeChat/Telegram:** @Dann_Hiroaki
 
