@@ -62,7 +62,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an senio
 - Jian'an Zhang, **Hongyi Duan**. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, [Arxiv](https://arxiv.org/abs/2310.01884), 2024. **(Co-first authors)**
 - Yuchen Li, **Hongyi Duan**, Donghe Li. Cognitive-Inspired Load Forecasting: An Enhanced
   Transformer-based Approach with NILM-derived Features, [Arxiv](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/NILMformer.pdf), 2023.
-- **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023 **(Best Paper)**
+- **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023.
 - **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 **(Best Paper)** 
 
 ---
