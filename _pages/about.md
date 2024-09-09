@@ -41,8 +41,8 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 **XJTU Period** 
 
-- 2021.09～2025.06: **XJTU**, *Computer Science*, B.Eng
-- 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Visiting Scholar
+- 2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering
+- 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Visiting Student
 - 2023.07～2024.07: **Unimelb**, *Computer Science*, Exchange Program
 - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Intern
 
