@@ -51,13 +51,13 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 **HKUST(GZ) Period**
 
 - 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, Doctor of Philosophy.
-- *To be explored*
+- *To be explored.*
 
 ---
 
 # <span style="color: purple;">📚Publications</span>
 
-*Means For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363), \*mark means co-first authors*  
+*For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363), \*mark means co-first authors*  
 
 - Jian'an Zhang*, **Hongyi Duan\***. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, Arxiv, 2024. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/2310.01884v2.pdf)]  
 - Yuchen Li, **Hongyi Duan**, Donghe Li. Cognitive-Inspired Load Forecasting: An Enhanced Transformer-based Approach with NILM-derived Features, 2023. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/NILMformer.pdf)] 
