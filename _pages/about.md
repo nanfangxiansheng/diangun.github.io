@@ -23,15 +23,15 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 **Contact**
 
-- **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org) 
+- **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org) (Being checked daily)
 
 - **WeChat/Telegram:** @Dann_Hiroaki
 
 **Research Interests**  
 
-- **Database.** Currently working on
-- **AI4Science.** Optimisation of GSMM(Genome-scale metabolic model) based on [PINNS](https://arxiv.org/abs/1711.10561)
-- **Deep Learing.** Time-series forecasting based on the optimized [Informer](https://arxiv.org/abs/2012.07436) models
+- **Database.** Currently working on. 
+- **AI4Science.** Optimisation of GSMM(Genome-scale metabolic model) based on [PINNS](https://arxiv.org/abs/1711.10561).
+- **Deep Learing.** Time-series forecasting based on the optimized [Informer](https://arxiv.org/abs/2012.07436).
 
 ---
 
@@ -41,29 +41,28 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 **XJTU Period** 
 
-- 2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering
-- 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Visiting Student
-- 2023.07～2024.07: **Unimelb**, *Computer Science*, Exchange Program
-- 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Research intern
+- 2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering.
+- 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Visiting Student.
+- 2023.07～2024.07: **Unimelb**, *Computer Science*, Exchange Program.
+- 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Research intern.
 
   🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl)(SUFE→PKU), Yuchen Li(XJTU) and Jiashen Feng(RUC). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU), Dr [Renata](https://findanexpert.unimelb.edu.au/profile/794609-renata-borovica-gajic)(Unimelb) and Dr [Richard Zhang](https://github.com/jiyzhang)(Apple Inc.)
 
 **HKUST(GZ) Period**
 
-- 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, PhD
+- 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, Doctor of Philosophy.
 - *To be explored*
 
 ---
 
 # <span style="color: purple;">📚Publications</span>
 
-*For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363)*  
+*Means For full publication list, please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363), \*mark means co-first authors*  
 
-- Jian'an Zhang, **Hongyi Duan**. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, [Arxiv](https://arxiv.org/abs/2310.01884), 2024. **(Co-first authors)**
-- Yuchen Li, **Hongyi Duan**, Donghe Li. Cognitive-Inspired Load Forecasting: An Enhanced
-  Transformer-based Approach with NILM-derived Features, [Arxiv](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/NILMformer.pdf), 2023.
-- **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. [IFEEA](https://ieeexplore.ieee.org/abstract/document/10429466), 2023.
-- **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. [ICSP](https://ieeexplore.ieee.org/document/10248891), 2023 **(Best Paper)** 
+- Jian'an Zhang*, **Hongyi Duan\***. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, Arxiv, 2024. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/2310.01884v2.pdf)]  
+- Yuchen Li, **Hongyi Duan**, Donghe Li. Cognitive-Inspired Load Forecasting: An Enhanced Transformer-based Approach with NILM-derived Features, 2023. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/NILMformer.pdf)] 
+- **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. IFEEA, 2023. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/Comparative_study_of_microgrid_optimal_scheduling_under_multi-optimization_algorithm_fusion.pdf)]  
+- **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. ICSP, 2023. **(Best Paper)** [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/Application_and_Analysis_of_Machine_Learning_Based_Rainfall_Prediction.pdf)]  
 
 ---
 
