@@ -41,7 +41,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 **XJTU Period** 
 
-- 2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering.
+- <span style="color: red;">2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering.</span> 
 - 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Visiting Student.
 - 2023.07～2024.07: **Unimelb**, *Computer Science*, Exchange Program.
 - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Research Intern.
@@ -50,8 +50,8 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 **HKUST(GZ) Period**
 
-- 2025.09～2029.06: **HKUST(GZ)**, *Data Science*, Doctor of Philosophy.
-- *To be explored.*
+- <span style="color: red;">2025.09～2029.06: **HKUST(GZ)**, *Data Science*, Doctor of Philosophy.</span> 
+- *To be explored.* 
 
 ---
 
