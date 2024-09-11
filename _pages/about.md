@@ -68,10 +68,10 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 # <span style="color: purple;">🌵Services</span>
 
-- **Reviewer** for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3), from 2023
-- **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2), from 2024
-- **Student Member** of *[IEEE & IEEE computer society](ieee.org)*, from 2022
-- **Student Member** of *[ACM](acm.org)*, from 2022
+- 2024.04～Present: **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2). 
+- 2023.12～Present: **Reviewer** for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3). 
+- 2023.02～Present: **Student Member** of *[ACM](acm.org)*. 
+- 2023.01～Present: **Student Member** of *[IEEE & IEEE computer society](ieee.org)*. 
 
 ---
 
