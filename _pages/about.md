@@ -77,7 +77,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 # <span style="color: purple;">📢News</span> 
 
-- **2024.05.24.** Congratulations on [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) for getting his PhD offer from [GSM](https://en.gsm.pku.edu.cn/) at PKU, honorably advised by Prof. [Chenxu Li](https://en.gsm.pku.edu.cn/faculty/cxli/).   
+- **2024.05.24.** Congratulations on my friend [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) for getting his PhD offer from [GSM](https://en.gsm.pku.edu.cn/) at PKU, honorably advised by Prof. [Chenxu Li](https://en.gsm.pku.edu.cn/faculty/cxli/).   
 - **2024.04.06.** My [work](https://arxiv.org/abs/2310.01884v1) with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) was awarded the outstanding paper at the 6th National Development Youth Forum organised by the [NSD](https://nsd.pku.edu.cn/) at PKU. [[link](https://mp.weixin.qq.com/s/nWHSswtN0Lx6qDYpxc_3fw)]
 - **2023.04.21.** My [work](https://ieeexplore.ieee.org/document/10248891) with Yuchen Li, Qingyang Li, et al was awarded the Best Paper and Best Presentation at ICSP'23. [[link](https://ic-icsp.org/cryxcwsf)]
 
