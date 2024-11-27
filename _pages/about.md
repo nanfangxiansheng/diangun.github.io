@@ -85,8 +85,8 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 # <font color=purple>🔗Useful Links</font>
 
-- My [Github](https://github.com/DANNHIROAKI): Many helpful materials of mine.
-- My [CSDN](https://blog.csdn.net/qq_64091900?type=blog): Many interesting blogs of mine, with a highly personalized markdown style [(a demo)](https://blog.csdn.net/qq_64091900/article/details/143471330).
+- My [Github](https://github.com/DANNHIROAKI): Helpful materials of mine.
+- My [CSDN](https://blog.csdn.net/qq_64091900?type=blog): Interesting blogs of mine, with a highly personalized markdown style [(a demo)](https://blog.csdn.net/qq_64091900/article/details/143471330).
 
  
 
