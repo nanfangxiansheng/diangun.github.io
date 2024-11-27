@@ -11,13 +11,13 @@ redirect_from:
     display: none;
   }
 </style>
-# <span style="color: purple;">✨Welcome to my Homepage!</span>
+# <font color=purple>✨Welcome to my Homepage!</font>
 
 <img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/2798b64df66f846f7d0ca396e1419d3.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=600 /> 
 
 ---
 
-# <span style="color: purple;">👤About Me</span>
+# <font color=purple>👤About Me</font>
 
 I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an undergraduate student (2021 fall intake) at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD (2025 fall intake) at the [HKUST (GZ)](https://www.hkust-gz.edu.cn) in [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
 
@@ -35,27 +35,27 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <span style="color: purple;">📇Short Bio</span> 
+# <font color=purple>📇Short Bio</font>
 
 *For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)*  
 
 **XJTU Period** 
 
-- <span style="color: red;">2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering.</span> 
+- <font color=red>2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering.</font>
 - 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Visiting Student.
 - 2023.07～2024.07: **Unimelb**, *Computer Science*, Exchange Program.
 - 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Research Intern.
 
-  🥰I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl)(SUFE→PKU). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU).
+  🥰During this period, I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl)(SUFE→PKU). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU).
 
-**HKUST(GZ) Period**
+**HKUST(GZ) Period** 
 
-- <span style="color: red;">2025.09～2029.06: **HKUST(GZ)**, *Data Science*, Doctor of Philosophy.</span> 
+- <font color=red>2025.09～2029.06: **HKUST(GZ)**, *Data Science*, Doctor of Philosophy.</font>
 - *To be explored.* 
 
 ---
 
-# <span style="color: purple;">📚Publications</span>
+# <font color=purple>📚Publications</font>
 
 *For full publication list please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363), \*mark means co-first authors*  
 
@@ -66,7 +66,7 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <span style="color: purple;">🌵Services</span>
+# <font color=purple>🌵Services</font>
 
 - 2024.04～Present: **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2). 
 - 2023.12～Present: **Reviewer** for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3). 
@@ -75,11 +75,20 @@ I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an under
 
 ---
 
-# <span style="color: purple;">📢News</span> 
+# <font color=purple>📢News</font>
 
 - **2024.05.24.** Congratulations on my friend [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) for getting his PhD offer from [GSM](https://en.gsm.pku.edu.cn/) at PKU, honorably advised by Prof. [Chenxu Li](https://en.gsm.pku.edu.cn/faculty/cxli/).   
 - **2024.04.06.** My [work](https://arxiv.org/abs/2310.01884v1) with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) was awarded the outstanding paper at the 6th National Development Youth Forum organised by the [NSD](https://nsd.pku.edu.cn/) at PKU. [[link](https://mp.weixin.qq.com/s/nWHSswtN0Lx6qDYpxc_3fw)]
 - **2023.04.21.** My [work](https://ieeexplore.ieee.org/document/10248891) with Yuchen Li, Qingyang Li, et al was awarded the Best Paper and Best Presentation at ICSP'23. [[link](https://ic-icsp.org/cryxcwsf)]
 
+---
+
+# <font color=purple>🔗Useful Links</font>
+
+- My [Github](https://github.com/DANNHIROAKI): Many helpful materials of mine.
+- My [CSDN](https://blog.csdn.net/qq_64091900?type=blog): Many interesting blogs of mine, with a highly personalized markdown style [(a demo)](https://blog.csdn.net/qq_64091900/article/details/143471330).
+
  
+
+
 
