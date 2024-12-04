@@ -11,82 +11,55 @@ redirect_from:
     display: none;
   }
 </style>
-# <font color=purple>✨Welcome to my Homepage!</font>
+# <font color=purple>欢迎来到我的个人主页</font>
 
-<img src="https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/2798b64df66f846f7d0ca396e1419d3.png" alt="4ea0326ef75c39ddd83a0f807c1d944" width=600 /> 
 
----
-
-# <font color=purple>👤About Me</font>
-
-I'm Hongyi Duan  (aka 段弘毅/Dann Hiroaki/ Frank H. Duan), currently an undergraduate student (2021 fall intake) at the [XJTU](http://en.xjtu.edu.cn/) in the [Faculty of EIE](https://eie.xjtu.edu.cn/en/index.htm). I will pursue my PhD (2025 fall intake) at the [HKUST (GZ)](https://www.hkust-gz.edu.cn) in [DSA Thrust](https://dsa.hkust-gz.edu.cn/), honorably advised by Prof. [Shangqi Lu](https://shangqilu.github.io/).  
-
-**Contact**
-
-- **Email:** [Dann_Hiroaki@ieee.org](mailto:Dann_Hiroaki@ieee.org) (Being checked daily) 
-
-- **WeChat/Telegram:** @Dann_Hiroaki
-
-**Research Interests**  
-
-- **Database.** ANN/Similarity search, Vector DB, GPU accelerated query.
-- **AI4Science.** Optimisation of GSMM(Genome-scale metabolic model) based on [PINNS](https://arxiv.org/abs/1711.10561).
-- **Deep Learing.** Time-series forecasting based on the optimized [Informer](https://arxiv.org/abs/2012.07436).
 
 ---
 
-# <font color=purple>📇Short Bio</font>
+# <font color=purple>👤个人介绍</font>
 
-*For more please refer to my [CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CV_2_Pages_EN.pdf)*  
+你好，我的名字是惠晨宇，英文名字是AUGUSTUS。我是西安人，目前就读于西安交通大学微电子科学与工程。我的社团经历十分丰富，现在在西安交通大学的智能机器人队担任电控负责人，文艺社团沈杨书社担任副社长。我的兴趣爱好较为广泛，多次在沈杨书社主办历史讲座（主要是世界近现代历史），我的竞赛经历也较为丰富。
 
-**XJTU Period** 
+## **联系我**
 
-- <span style="color: red;">2021.09～2025.06: **XJTU**, *Computer Science*, Bachelor of Engineering.</span> 
-- 2022.12～2023.04: **MIT**, *Computer Science(CV/NLP)*, Visiting Student.
-- 2023.07～2024.07: **Unimelb**, *Computer Science*, Exchange Program.
-- 2024.05～2024.09: **Apple Inc**, *Deep Learning Engineer*, Research Intern.
+- **电子邮箱:** 2687123206@stu.xjtu.edu.cn
 
-  🥰During this period, I'm more than exited to work with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl)(SUFE→PKU). While more than honored to be advised by Prof. [Alexander Amini](https://www.mit.edu/~amini/)(MIT), Prof. [Yu Kong](https://gr.xjtu.edu.cn/en/web/yukong)(XJTU).
+**感兴趣的领域**  
 
-**HKUST(GZ) Period** 
+- **高性能计算.** GPU支持下进行高性能计算
 
-- <span style="color: red;">2025.09～2029.06: **HKUST(GZ)**, *Data Science*, Doctor of Philosophy.</span> 
-- *To be explored.* 
+- **深度学习.** 卷积神经网络
 
----
+- **机器人导航控制.** 基于ROS的机器人运动控制
 
-# <font color=purple>📚Publications</font>
+- **计算机视觉**.基于Opencv的计算机视觉和图象处理以及其在机器人上的应用
 
-*For full publication list please refer to my [ORCID](https://orcid.org/0000-0002-2082-5363), \*mark means co-first authors*  
+  # <font color=purple>**📇个人简历**</font>
 
-- Jian'an Zhang*, **Hongyi Duan\***. Enhanced LFTSformer: A Novel Long-Term Financial Time Series Prediction Model Using Advanced Feature Engineering and the DS Encoder Informer Architecture, Arxiv, 2024. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/2310.01884v2.pdf)]  
-- Yuchen Li, **Hongyi Duan**, Donghe Li. Cognitive-Inspired Load Forecasting: An Enhanced Transformer-based Approach with NILM-derived Features, 2023. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/NILMformer.pdf)] 
-- **Hongyi Duan**, Qingyang Li, Yuchen Li, Tiaojiao Ji, Jian'an Zhang, Yuming Xie. Comparative study of microgrid optimal scheduling under multi-optimization algorithm fusion. IFEEA, 2023. [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/Comparative_study_of_microgrid_optimal_scheduling_under_multi-optimization_algorithm_fusion.pdf)]  
-- **Hongyi Duan**, Yuchen Li, Qingyang Li, Yiyi Wang, Yuming Xie, Haohui Peng. Application and Analysis of Machine Learning Based Rainfall Prediction. ICSP, 2023. **(Best Paper)** [[PDF](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/Application_and_Analysis_of_Machine_Learning_Based_Rainfall_Prediction.pdf)]  
+* *更多内容详见CV*  
 
----
+**XJTU时期** 
 
-# <font color=purple>🌵Services</font>
-
-- 2024.04～Present: **Reviewer** for *[IEEE Access](https://ieeeaccess.ieee.org/)* (JCR-2). 
-- 2023.12～Present: **Reviewer** for *[Computational economics](https://link.springer.com/journal/10614)* (JCR-3). 
-- 2023.02～Present: **Student Member** of *[ACM](acm.org)*. 
-- 2023.01～Present: **Student Member** of *[IEEE & IEEE computer society](ieee.org)*. 
+- <span style="color: red;">2022.09～2026.06: **XJTU**, *微电子科学与工程*</span> 
+- 2024.4~2024.8:参加中国大学生机械创新设计大赛担任电控主力，获得<font color=red>全国一等奖</font>
+- 2024.08-2024.11:参加ROBOCUP暨中国机器人大赛担任电控主力，获得<font color=red>全国一等奖</font>
+- 2024.01-2024.05:参加中国大学生电子设计竞赛瑞萨杯担任电控主力，获得省级一等奖
+- 2024.05-2024.08:参加中国大学生电子设计竞赛TI杯担任电控主力，获得省级二等奖
+- 2023.08-2023.11：参加中国大学生数学竞赛，获得省级二等奖
 
 ---
 
-# <font color=purple>📢News</font>
+# <font color=purple>📢新闻</font>
 
-- **2024.05.24.** Congratulations on my friend [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) for getting his PhD offer from [GSM](https://en.gsm.pku.edu.cn/) at PKU, honorably advised by Prof. [Chenxu Li](https://en.gsm.pku.edu.cn/faculty/cxli/).   
-- **2024.04.06.** My [work](https://arxiv.org/abs/2310.01884v1) with [Jian'an Zhang](https://scholar.google.com/citations?user=_GX9j1YAAAAJ&hl) was awarded the outstanding paper at the 6th National Development Youth Forum organised by the [NSD](https://nsd.pku.edu.cn/) at PKU. [[link](https://mp.weixin.qq.com/s/nWHSswtN0Lx6qDYpxc_3fw)]
-- **2023.04.21.** My [work](https://ieeexplore.ieee.org/document/10248891) with Yuchen Li, Qingyang Li, et al was awarded the Best Paper and Best Presentation at ICSP'23. [[link](https://ic-icsp.org/cryxcwsf)]
+
 
 ---
 
-# <font color=purple>🔗Useful Links</font>
+# <font color=purple>🔗一些相关链接</font>
 
-- My [Github](https://github.com/DANNHIROAKI): Helpful materials of mine.
-- My [CSDN](https://blog.csdn.net/qq_64091900?type=blog): Interesting blogs of mine, with a highly personalized markdown style [(a demo)](https://blog.csdn.net/qq_64091900/article/details/143471330).
+-  [Github](https://github.com/nanfangxiansheng): 我的Github个人主页，其中有我原创的工程代码
+-  [CSDN](https://blog.csdn.net/qq_64091900?type=blog): 我的CSDN个人主页，其中有我所撰写的帖子
 
  
 
