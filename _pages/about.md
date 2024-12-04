@@ -28,16 +28,13 @@ redirect_from:
 **感兴趣的领域**  
 
 - **高性能计算.** GPU支持下进行高性能计算
-
 - **深度学习.** 卷积神经网络
-
 - **机器人导航控制.** 基于ROS的机器人运动控制
-
 - **计算机视觉**.基于Opencv的计算机视觉和图象处理以及其在机器人上的应用
 
-  # <font color=purple>**📇个人简历**</font>
+# <font color=purple>📇个人简历</font>
 
-* *更多内容详见CV*  
+*更多内容详见*[CV](https://github.com/nanfangxiansheng/diangun.github.io/blob/master/assets/personal_CV.pdf)  
 
 **XJTU时期** 
 
