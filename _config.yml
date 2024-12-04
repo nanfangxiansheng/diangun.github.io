@@ -12,8 +12,8 @@ title                    : "CHENYU HUI's homepage"
 title_separator          : "-"
 name                     : &name "CHENYU HUI"
 description              : &description "personal description"
-url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "https://nanfangxiansheng.github.io/diangun.github.io" # the subpath of your site, e.g. "/blog"
+url                      : https://nanfangxiansheng.github.io/diangun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nanfangxiansheng/diangun.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

@@ -59,7 +59,7 @@ redirect_from:
 # <font color=purple>🔗一些相关链接</font>
 
 -  [Github](https://github.com/nanfangxiansheng): 我的Github个人主页，其中有我原创的工程代码
--  [CSDN](https://blog.csdn.net/qq_64091900?type=blog): 我的CSDN个人主页，其中有我所撰写的帖子
+-  [CSDN](https://blog.csdn.net/weixin_74277223?type=blog): 我的CSDN个人主页，其中有我所撰写的帖子
 
  
 
