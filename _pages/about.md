@@ -34,7 +34,7 @@ redirect_from:
 
 # <font color=purple>📇个人简历</font>
 
-*更多内容详见*[CV](https://github.com/nanfangxiansheng/diangun.github.io/blob/master/assets/personal_CV.pdf)  
+*更多内容详见*[CV](https://raw.githubusercontent.com/nanfangxiansheng/diangun.github.io/blob/master/assets/personal_CV.pdf)  
 
 **XJTU时期** 
 
