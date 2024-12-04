@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "cn-CN"
-title                    : "Dann Hiroaki's Homepage"
+title                    : "CHENYU HUI's homepage"
 title_separator          : "-"
-name                     : &name "Hongyi Duan"
+name                     : &name "CHENYU HUI"
 description              : &description "personal description"
-url                      : https://dannhiroaki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DANNHIROAKI/dannhiroaki.github.io"
+url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://nanfangxiansheng.github.io/diangun.github.io/" # the subpath of your site, e.g. "/blog"
+repository               : "nanfangxiansheng/diangun.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,10 +22,10 @@ repository               : "DANNHIROAKI/dannhiroaki.github.io"
 author:
   # Biographic information
   avatar           : "DHY.jpg"
-  name             : "Hongyi Duan"
+  name             : "CHENYU HUI"
   pronouns         : # example: "she/her"  
-  bio              : "XJTU&Unimelb(BE)➡️HKUST(PhD)"
-  location         : #"Guangzhou, China"
+  bio              : "XJTU"
+  location         : "XI'AN, China"
   employer         : # "Huawei"
   uri              : # URL
   email            : # "none@example.org" 
