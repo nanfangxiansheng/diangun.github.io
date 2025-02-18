@@ -36,7 +36,7 @@ redirect_from:
 
 # <font color=purple>📇个人简历</font>
 
-*更多内容详见*[CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/personal_CV.pdf)  
+*更多内容详见*[CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇个人简历.pdf)  
 
 **XJTU时期** 
 
