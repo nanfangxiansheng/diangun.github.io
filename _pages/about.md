@@ -36,7 +36,9 @@ redirect_from:
 
 # <font color=purple>📇个人简历</font>
 
-*更多内容详见*[CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇个人简历.pdf)  
+*更多内容详见*[个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇个人简历.pdf)  
+
+个人简历的英文版本[CHENYU HUI‘s CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CHENYU%20HUI's%20CV.pdf)
 
 **XJTU时期** 
 
@@ -47,6 +49,8 @@ redirect_from:
 - 2024.01-2024.05:参加中国大学生电子设计竞赛瑞萨杯担任电控主力，获得省级一等奖
 - 2024.05-2024.08:参加中国大学生电子设计竞赛TI杯担任电控主力，获得省级二等奖
 - 2023.08-2023.11：参加中国大学生数学竞赛，获得省级二等奖
+- 2023.06-2023.08 :参加了互联网+创新创业大赛并获得陕西省省级铜牌
+- 2023.04-2023.05：参加了蓝桥杯程序设计大赛并获得了陕西省省级三等奖
 
 ---
 
