@@ -36,9 +36,9 @@ redirect_from:
 
 # <font color=purple>📇个人简历</font>
 
-*更多内容详见*[个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇个人简历.pdf)  
+*更多内容详见*[个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇个人简历.pdf)
 
-个人简历的英文版本[CHENYU HUI‘s CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CHENYU%20HUI's%20CV.pdf)
+个人简历的英文版本[CHENYU HUI‘s CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CHENYU%20HUI%20CV1.pdf)
 
 **XJTU时期** 
 
