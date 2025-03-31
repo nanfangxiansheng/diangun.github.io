@@ -19,7 +19,7 @@ redirect_from:
 
 # <font color=purple>👤个人介绍</font>
 
-你好，我的名字是惠晨宇，英文名字是AUGUSTUS。我是西安人，目前就读于西安交通大学微电子科学与工程。我的社团经历十分丰富，现在在西安交通大学的智能机器人队担任电控负责人，文艺社团沈杨书社担任副社长。我的兴趣爱好较为广泛，多次在沈杨书社主办历史讲座，曾经在西安交通大学主办过两次大型活动（参与人数在百人左右），我的竞赛经历也较为丰富，在过往的三年中我通过参加多项机器人比赛锻炼了我的实际项目能力，在参加ROBOCUP机器人比赛的过程中，我作为队伍的主力，和机械专业的同学配合，从设计到搭建到调试并完成相应任务打造了一台具有三自由度机械臂结合计算机视觉（采用OPENMV模块）的移动灌溉机器人。
+你好，我的名字是惠晨宇，当前是IEEE student member（[IEEE学生会员证件](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/IEEE%20student%20member.jpg)）和中国计算机学会学生会员，我的英文名字是AUGUSTUS。我是西安人，目前就读于西安交通大学微电子科学与工程。我的社团经历十分丰富，现在在西安交通大学的智能机器人队担任电控负责人，文艺社团沈杨书社担任副社长。我的兴趣爱好较为广泛，多次在沈杨书社主办历史讲座，曾经在西安交通大学主办过两次大型活动（参与人数在百人左右），我的竞赛经历也较为丰富，在过往的三年中我通过参加多项机器人比赛锻炼了我的实际项目能力，在参加ROBOCUP机器人比赛的过程中，我作为队伍的主力，和机械专业的同学配合，从设计到搭建到调试并完成相应任务打造了一台具有三自由度机械臂结合计算机视觉（采用OPENMV模块）的移动灌溉机器人。
 
 我在大学期间涉猎较为广泛，在本专业微电子的基础上积极向外拓展延伸，先后学习了嵌入式开发和机器人技术，入门了计算机视觉，深度学习原理，CUDA编程，后端开发等知识。
 
@@ -36,9 +36,9 @@ redirect_from:
 
 # <font color=purple>📇个人简历</font>
 
-*更多内容详见*[惠晨宇个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇中文简历.pdf)
+*更多内容详见*[惠晨宇个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇331.pdf)
 
-个人简历的英文版本[CHENYU HUI‘s CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CHENYU%20HUI%20CV1.pdf)
+个人简历的英文版本[CHENYU HUI‘s CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CHENYUHUI331.pdf)
 
 **XJTU时期** 
 
@@ -56,7 +56,9 @@ redirect_from:
 
 # <font color=purple>📢新闻</font>
 
+在2025年的3月31日我最新的科研论文"ASRL :A robust loss function with potential for development ".被第十届IEEE ICPS国际会议录用（我是第一作者），官方的录用证明为[官方证明](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/1_论文录用通知.pdf)
 
+在2025年的3月中旬我获得了全国大学生工程创新大赛的校级一等奖（新能源车辆赛道第一名）。
 
 ---
 
