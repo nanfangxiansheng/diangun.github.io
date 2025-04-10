@@ -23,6 +23,10 @@ redirect_from:
 
 我在大学期间涉猎较为广泛，在本专业微电子的基础上积极向外拓展延伸，先后学习了嵌入式开发和机器人技术，入门了计算机视觉，深度学习原理，CUDA编程，后端开发等知识。
 
+Hello, my name is Hui Chenyu, and I am currently an IEEE student member ([IEEE student member certificate](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/IEEE%20student%20member.jpg)) and a student member of the China Computer Society. My English name is AUGUSTUS. I am from Xi'an and currently studying microelectronics science and engineering at Xi'an Jiaotong University. I have a lot of club experience. I am currently the head of the electronic control team of the intelligent robot team of Xi'an Jiaotong University, and the vice president of the literary club Shenyang Book Club ([Vice President Appointment Letter](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/沈杨书社招聘书.jpg)). I have a wide range of interests and hobbies. I have hosted history lectures at Shenyang Bookstore many times and hosted two large-scale events at Xi'an Jiaotong University (with about 100 participants). I also have rich competition experience. In the past three years, I have exercised my practical project ability by participating in many robot competitions. In the process of participating in the ROBOCUP robot competition, as the main force of the team, I cooperated with students from the mechanical major to create a mobile irrigation robot with a three-degree-of-freedom robotic arm combined with computer vision (using OPENMV module) from design to construction to debugging and complete the corresponding tasks.
+
+During my university years, I had a wide range of interests. On the basis of my major in microelectronics, I actively expanded and extended outward. I learned embedded development and robotics technology, and got started with computer vision, deep learning principles, CUDA programming, back-end development and other knowledge.
+
 
 
 ## **联系我**
@@ -46,6 +50,10 @@ redirect_from:
 
 ![robocup](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/robocup.jpg)
 
+- **在沈杨书社三十周年社庆时候的合影**
+
+![三十周年社庆](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/三十周年社庆.jpg)
+
 # <font color=purple>📇个人简历</font>
 
 *更多内容详见*[惠晨宇个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇331.pdf)
@@ -68,9 +76,10 @@ redirect_from:
 
 # <font color=purple>📢新闻</font>
 
-在2025年的3月31日我最新的科研论文"ASRL :A robust loss function with potential for development ".被第十届IEEE ICPS国际会议录用（我是第一作者），官方的录用证明为[官方证明](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/1_论文录用通知.pdf)
+- 在2025年的4月9日我首次参加华为公司实习生招聘机试并顺利通过。
+- 在2025年的3月31日我最新的科研论文"ASRL :A robust loss function with potential for development ".被第十届IEEE ICPS国际会议录用（我是第一作者），官方的录用证明为[官方证明](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/1_论文录用通知.pdf)
 
-在2025年的3月中旬我获得了全国大学生工程创新大赛的校级一等奖（新能源车辆赛道第一名）。
+- 在2025年的3月中旬我获得了全国大学生工程创新大赛的校级一等奖（新能源车辆赛道第一名）。
 
 ---
 
