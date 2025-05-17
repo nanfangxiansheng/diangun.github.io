@@ -37,7 +37,7 @@ During my university years, I had a wide range of interests. On the basis of my 
 
 - **高性能计算.** GPU支持下进行高性能计算(CUDA编程)
 - **深度学习.** 卷积神经网络与循环神经网络以及transformer结构
-- **视频理解**.多模态模型与视频文本生成，RAG
+- **视频理解**.采用ubuntu+CUDA+pytorch工具链进行多模态模型与视频文本生成，RAG研究
 - **图文编码与检索**.图像编码，自然语言处理与图文双向检索
 
 # 👤<font color=purple>一些值得纪念的经历</font>
@@ -53,17 +53,19 @@ During my university years, I had a wide range of interests. On the basis of my 
 - **在沈杨书社三十周年社庆时候的合影**
 
 ![三十周年社庆](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/三十周年社庆.jpg)
+-**在第十届ICSP会议分会场上做英文口头报告**
+![ICSP](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/ICSP.jpg)
 
 # <font color=purple>📇个人简历</font>
 
-*更多内容详见*[惠晨宇个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/惠晨宇331.pdf)
+*更多内容详见*[惠晨宇个人简历](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/我的个人简历.pdf)
 
 个人简历的英文版本[CHENYU HUI‘s CV](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/CHENYUHUI331.pdf)
 
 **XJTU时期** 
 
 - <span style="color: red;">2022.09～2026.06: **XJTU**, *微电子科学与工程*</span> 
-- 2025.02-20250.2：参加美国大学生数学建模竞赛并获得H奖
+- 2025.02-2025.02：参加美国大学生数学建模竞赛并获得H奖
 - 2024.4~2024.8:参加中国大学生机械创新设计大赛担任电控主力，获得<font color=red>全国一等奖</font>
 - 2024.08-2024.11:参加ROBOCUP暨中国机器人大赛担任电控主力，获得<font color=red>全国一等奖</font>
 - 2024.02-2024.02:参加美国大学生数学建模竞赛并获得H奖
@@ -78,10 +80,7 @@ During my university years, I had a wide range of interests. On the basis of my 
 # <font color=purple>📢新闻</font>
 
 - 在2025年5月获得了2025年的MCM/ICM 的honorable mentions奖
-- 在2025年的4月9日我首次参加华为公司实习生招聘机试并顺利通过。
 - 在2025年的3月31日我最新的科研论文"ASRL :A robust loss function with potential for development ".被第十届IEEE ICPS国际会议录用（我是第一作者），官方的录用证明为[官方证明](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/1_论文录用通知.pdf)
-
-- 在2025年的3月中旬我获得了全国大学生工程创新大赛的校级一等奖（新能源车辆赛道第一名）。
 
 ---
 
