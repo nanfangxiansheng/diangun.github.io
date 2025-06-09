@@ -23,11 +23,7 @@ redirect_from:
 
 我在大学期间涉猎较为广泛，在本专业微电子的基础上积极向外拓展延伸，先后学习了嵌入式开发和机器人技术，入门了计算机视觉，深度学习原理，CUDA编程，后端开发等知识。未来预计在西安交通大学人工智能与机器人研究所从事多模态模型学习与研究。
 
-Hello, my name is Hui Chenyu, and I am currently an IEEE student member ([IEEE student member certificate](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/IEEE%20student%20member.jpg)) and a student member of the China Computer Society. My English name is AUGUSTUS. I am from Xi'an and currently studying microelectronics science and engineering at Xi'an Jiaotong University. I have a lot of club experience. I am currently the head of the electronic control team of the intelligent robot team of Xi'an Jiaotong University, and the vice president of the literary club Shenyang Book Club ([Vice President Appointment Letter](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/沈杨书社聘书.jpg)). I have a wide range of interests and hobbies. I have hosted history lectures at Shenyang Bookstore many times and hosted two large-scale events at Xi'an Jiaotong University (with about 100 participants). I also have rich competition experience. In the past three years, I have exercised my practical project ability by participating in many robot competitions. In the process of participating in the ROBOCUP robot competition, as the main force of the team, I cooperated with students from the mechanical major to create a mobile irrigation robot with a three-degree-of-freedom robotic arm combined with computer vision (using OPENMV module) from design to construction to debugging and complete the corresponding tasks.
-
-During my university years, I had a wide range of interests. On the basis of my major in microelectronics, I actively expanded and extended outward. I learned embedded development and robotics technology, and got started with computer vision, deep learning principles, CUDA programming, back-end development and other knowledge.
-
-
+当前在**人工智能与数字经济广东省实验室（base 深圳）侯皓文老师组内**参与大模型长文档能力增强的研究。这是侯老师的个人主页[howard-hou]( https://howard-hou.github.io/)
 
 ## **联系我**
 
@@ -39,6 +35,7 @@ During my university years, I had a wide range of interests. On the basis of my 
 - **深度学习.** 卷积神经网络与循环神经网络以及transformer结构
 - **视频理解**.采用ubuntu+CUDA+pytorch工具链进行多模态模型与视频文本生成，RAG研究
 - **图文编码与检索**.图像编码，自然语言处理与图文双向检索
+- **大模型长文档支持能力增强**.长文档关键token检测与损失降低方法研究
 
 # 👤<font color=purple>一些值得纪念的经历</font>
 
