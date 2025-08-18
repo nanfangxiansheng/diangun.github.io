@@ -21,9 +21,9 @@ redirect_from:
 
 你好，我的名字是惠晨宇，当前是IEEE student member（[IEEE学生会员证件](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/IEEE%20student%20member.jpg)），我的英文名字是AUGUSTUS。我是西安人，目前就读于西安交通大学微电子科学与工程。
 
-2025年6月到2025年8月我在**[人工智能与数字经济广东省实验室（base 深圳）]([光明实验室_人工智能与数字经济广东省实验室（深圳）](https://www.gml.ac.cn/))自主机器智能团队的[侯皓文](https://howard-hou.github.io/)老师**组内参与大模型长文档能力增强的研究。研究成果最终被撰写为会议论文，当前仍在投稿中。
+2025年6月到2025年8月我在**[人工智能与数字经济广东省实验室（base 深圳）](https://www.gml.ac.cn/)自主机器智能团队的[侯皓文](https://howard-hou.github.io/)老师**组内参与大模型长文档能力增强的研究。研究成果最终被撰写为会议论文，当前仍在投稿中。
 
-当前我在**上海交通大学计算机学院[john中心]([上海交通大学约翰·霍普克罗夫特计算机科学中心（John Hopcroft Center）](https://jhc.sjtu.edu.cn/))的[黄涛](https://taohuang.info/#education)老师**组内从事基于扩散模型的视频编辑研究。
+当前我在**上海交通大学计算机学院[john中心](https://jhc.sjtu.edu.cn/)的[黄涛](https://taohuang.info/#education)老师**组内从事基于扩散模型的视频编辑研究。
 
 ## **联系我**
 
@@ -54,7 +54,7 @@ redirect_from:
 
 # <font color=purple>📇个人简历</font>
 
-详细的中文简历请点击此处下载[个人简历]([nanfangxiansheng/personal_CV: 个人简历保存](https://github.com/nanfangxiansheng/personal_CV))
+详细的中文简历请点击此处下载[个人简历](https://github.com/nanfangxiansheng/personal_CV)
 
 **XJTU时期** 
 
