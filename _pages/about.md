@@ -54,6 +54,8 @@ redirect_from:
 
 # <font color=purple>📇个人简历</font>
 
+详细的中文简历请点击此处下载[个人简历]([nanfangxiansheng/personal_CV: 个人简历保存](https://github.com/nanfangxiansheng/personal_CV))
+
 **XJTU时期** 
 
 - <span style="color: red;">2022.09～2026.06: **XJTU**, *微电子科学与工程*</span> 
