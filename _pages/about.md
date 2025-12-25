@@ -19,11 +19,7 @@ redirect_from:
 
 # <font color=purple>个人介绍</font>
 
-你好，我的名字是惠晨宇，当前是IEEE student member（[IEEE学生会员证件](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/IEEE%20student%20member.jpg)），我的英文名字是AUGUSTUS。我是西安人，目前就读于西安交通大学微电子科学与工程。
-
-2025年6月到2025年8月我在**[人工智能与数字经济广东省实验室（base 深圳）](https://www.gml.ac.cn/)自主机器智能团队的[侯皓文](https://howard-hou.github.io/)老师**组内参与大模型长文档能力增强的研究。研究成果最终被撰写为会议论文，当前仍在投稿中。
-
-当前我在**上海交通大学计算机学院[john中心](https://jhc.sjtu.edu.cn/)的[黄涛](https://taohuang.info/#education)老师**组内从事基于扩散模型的视频编辑研究。
+你好，我的名字是惠晨宇，当前是IEEE student member（[IEEE学生会员证件](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/IEEE%20student%20member.jpg)），我的英文名字是AUGUSTUS。我是西安人，目前就读于西安交通大学微电子科学与工程。当前我在**上海交通大学计算机学院[john中心](https://jhc.sjtu.edu.cn/)的[黄涛](https://taohuang.info/#education)老师**组内从事基于扩散模型的视频增强研究。
 
 ## **联系我**
 
@@ -32,8 +28,9 @@ redirect_from:
 **感兴趣的领域**  
 
 - **图文编码与检索**
-- **自然语言处理**
-- **基于扩散模型的视频编辑**
+- **无人机导航和视觉**
+- **图像特征提取以及超分技术**
+- **扩散模型**
 
 # 👤<font color=purple>一些值得纪念的经历</font>
 
@@ -54,8 +51,9 @@ redirect_from:
 
 **XJTU时期** 
 
-- <span style="color: red;">2022.09～2026.06: **XJTU**, *微电子科学与工程*</span> 
-- 2025.06-2025.08:在广东省人工智能实验室自主机器智能团队从事研究型实习
+- <span style="color: red;">2022.09～2026.06: **XJTU**, *微电子科学与工程,本科*</span> 
+- 2025.11-2026.1 ：在中国电信人工智能研究院(tel ai)从事基于Isaaclab的具身智能仿真平台开发研究实习
+- 2025.06-2025.08:在广东省人工智能实验室自主机器智能团队从事自然语言处理研究型实习
 - 2025.02-2025.02：参加美国大学生数学建模竞赛并获得H奖
 - 2024.04-2024.08:参加中国大学生机械创新设计大赛担任电控主力，获得<font color=red>全国一等奖</font>
 - 2024.08-2024.11:参加ROBOCUP暨中国机器人大赛担任电控主力，获得<font color=red>全国一等奖</font>
@@ -68,9 +66,9 @@ redirect_from:
 
 # <font color=purple>📢新闻</font>
 
-- 在2025年7月31日完成大模型长文档理解能力增强研究所有实验和论文撰写，当前正在投稿
+- 在2025年的10月30日论文"[An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control]([[2510.23003\] An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control](https://arxiv.org/abs/2510.23003))"被IEEE IFEEA会议录用
 - 在2025年5月获得了2025年的MCM/ICM 的honorable mentions奖
-- 在2025年的3月31日我最新的科研论文"ASRL :A robust loss function with potential for development ".被第十届IEEE ICPS国际会议录用（我是第一作者），官方的录用证明为[官方证明](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/1_论文录用通知.pdf)
+- 在2025年的3月31日论文"[ASRL :A robust loss function with potential for development]([[2504.06935\] ASRL:A robust loss function with potential for development](https://arxiv.org/abs/2504.06935)) ".被IEEE ICPS会议录用
 
 ---
 
