@@ -31,7 +31,6 @@ redirect_from:
 
 **感兴趣的领域**  
 
-- **视频理解**.
 - **图文编码与检索**
 - **自然语言处理**
 - **基于扩散模型的视频编辑**
@@ -49,9 +48,6 @@ redirect_from:
 - **在沈杨书社三十周年社庆时候的合影**
 
 ![三十周年社庆](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/三十周年社庆.jpg)
--   **在第十届ICSP会议分会场上做英文口头报告**
-![ICSP](https://raw.githubusercontent.com/DANNHIROAKI/New-Picture-Bed/main/img/ICSP.jpg)
-
 # <font color=purple>📇个人简历</font>
 
 详细的中文简历请点击此处下载[个人简历](https://github.com/nanfangxiansheng/personal_CV)
