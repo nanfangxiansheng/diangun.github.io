@@ -13,8 +13,6 @@ redirect_from:
 </style>
 # <font color=purple>欢迎来到我的个人主页</font>
 
-
-
 ---
 
 # <font color=purple>个人介绍</font>
