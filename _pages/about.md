@@ -64,9 +64,9 @@ redirect_from:
 
 # <font color=purple>📢新闻</font>
 
-- 在2025年的10月30日论文"[An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control]([[2510.23003\] An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control](https://arxiv.org/abs/2510.23003))"被IEEE IFEEA会议录用
+- 在2025年的10月30日论文"[An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control](https://arxiv.org/abs/2510.23003)"被IEEE IFEEA会议录用
 - 在2025年5月获得了2025年的MCM/ICM 的honorable mentions奖
-- 在2025年的3月31日论文"[ASRL :A robust loss function with potential for development]([[2504.06935\] ASRL:A robust loss function with potential for development](https://arxiv.org/abs/2504.06935)) ".被IEEE ICPS会议录用
+- 在2025年的3月31日论文"[ASRL :A robust loss function with potential for development](https://arxiv.org/abs/2504.06935) ".被IEEE ICPS会议录用
 
 ---
 
