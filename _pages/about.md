@@ -26,6 +26,7 @@ redirect_from:
 **感兴趣的领域**  
 
 - **无人机导航和视觉**
+- **FPGA硬件开发以及NPU技术**
 - **图像特征提取以及超分技术**
 - **扩散模型**
 
@@ -47,6 +48,7 @@ redirect_from:
 **XJTU时期** 
 
 - <span style="color: red;">2022.09～2026.06: **XJTU**, *微电子科学与工程,本科*</span> 
+- 2026.5- now       :在西安天翼智飞无人机科技集团从事无人机研发
 - 2025.11-2026.1 ：在中国电信人工智能研究院(tel ai)从事基于Isaaclab的具身智能仿真平台开发研究实习
 - 2025.9-2025.11 ：在上海交大john hopcroft计算机中心从事具身智能的泛化研究实习
 - 2025.05-2025.08:在广东省人工智能实验室自主机器智能团队从事自然语言处理研究型实习
@@ -61,6 +63,9 @@ redirect_from:
 ---
 
 # <font color=purple>📢新闻</font>
+
+- 在2026年5月1日论文“Seeing Realism from Simulation: Efficient Video Transfer for
+  Vision-Language-Action Data Augmentation”被ICML 2026会议接受
 
 - 在2025年的10月30日论文"[An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control](https://arxiv.org/abs/2510.23003)"被IEEE IFEEA会议录用
 - 在2025年5月获得了2025年的MCM/ICM 的honorable mentions奖
