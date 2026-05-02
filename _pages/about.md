@@ -79,6 +79,7 @@ redirect_from:
 
 -  [Github](https://github.com/nanfangxiansheng): 我的Github个人主页，其中有我原创的工程代码
 -  [CSDN](https://blog.csdn.net/weixin_74277223?type=blog): 我的CSDN个人主页，其中有我所撰写的帖子
+-  [blog](https://nanfangxiansheng.github.io/minimal-mistakes/): 我的个人博客网站，在上面有我发布的贴子
 
  
 
