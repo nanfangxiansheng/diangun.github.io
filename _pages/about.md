@@ -67,9 +67,11 @@ redirect_from:
 - 在2026年5月1日论文“Seeing Realism from Simulation: Efficient Video Transfer for
   Vision-Language-Action Data Augmentation”被ICML 2026会议接受
 
-- 在2025年的10月30日论文"[An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control](https://arxiv.org/abs/2510.23003)"被IEEE IFEEA会议录用
+- 在2026年2月7日论文“[ Towards robust long-context understanding of large language model via active recap learning](https://arxiv.org/abs/2601.13734) ”被EI会议IEEE IOTAAI会议录用
+  
+- 在2025年的10月30日论文"[An Intelligent Water-Saving Irrigation System Based on Multi-Sensor Fusion and Visual Servoing Control](https://arxiv.org/abs/2510.23003)"被EI会议IEEE IFEEA会议录用
 - 在2025年5月获得了2025年的MCM/ICM 的honorable mentions奖
-- 在2025年的3月31日论文"[ASRL :A robust loss function with potential for development](https://arxiv.org/abs/2504.06935) ".被IEEE ICPS会议录用
+- 在2025年的3月31日论文"[ASRL :A robust loss function with potential for development](https://arxiv.org/abs/2504.06935) ".被EI会议IEEE ICPS会议录用
 
 ---
 
