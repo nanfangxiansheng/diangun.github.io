@@ -64,8 +64,8 @@ redirect_from:
 
 # <font color=purple>📢新闻</font>
 
-- 在2026年5月1日论文“Seeing Realism from Simulation: Efficient Video Transfer for
-  Vision-Language-Action Data Augmentation”被ICML 2026会议接受
+- 在2026年5月1日论文“[Seeing Realism from Simulation: Efficient Video Transfer for
+  Vision-Language-Action Data Augmentation](https://arxiv.org/abs/2605.02757)”被ICML 2026会议接受，代码链接是：[CODE](https://github.com/nanfangxiansheng/Seeing-Realism-from-Simulation)
 
 - 在2026年2月7日论文“[ Towards robust long-context understanding of large language model via active recap learning](https://arxiv.org/abs/2601.13734) ”被EI会议IEEE IOTAAI会议录用
   
